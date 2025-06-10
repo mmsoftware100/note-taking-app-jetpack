@@ -12,5 +12,7 @@ Jetpack Compose ကို အစက ပြန်နွှေးရချေဉ�
 - [ ] Async and Networking
 - [ ] Basic UI Components
 - [ ] Basic Layout Components
+- [ ] External Package / Lib installation
+- [ ] Image Component
 
  
